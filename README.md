@@ -1,2 +1,2 @@
-# econ-data-portal
-Place to discuss the idea of an aggregate data portal for economic data.
+# Economics Data Portal 
+Build a place to perform exploratory and visual analysis of publicly available economics data.
